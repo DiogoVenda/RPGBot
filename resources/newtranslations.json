@@ -3,85 +3,99 @@
     "fr": "Impossible de supprimer plus de 100 messages.",
     "de": "Kann nicht mehr als 100 Nachrichten auf einmal löschen",
     "ru": "Нельзя удалить более 100 сообщений!",
-    "es": "No se pueden eliminar más de 100 mensajes."
+    "es": "No se pueden eliminar más de 100 mensajes.",
+    "pt": "Não é possível de retirar mais de 100 mensagens!"
   },
   "{} has no characters to display": {
     "fr": "{} n'a aucun personnage à afficher",
     "de": "{} hat keine anzeigbaren Charaktere",
     "ru": "У {} нет персонажей",
-    "es": "{} no tiene personajes"
+    "es": "{} no tiene personajes",
+    "pt": "{} não tem personagens para mostrar"
   },
   "No characters to display": {
     "fr": "Aucun personnage à afficher",
     "de": "Keine Charaktere zum Anzeigen verfügbar",
     "ru": "Персонажи отсутствуют",
-    "es": "No hay personajes personajes a mostrar"
+    "es": "No hay personajes personajes a mostrar",
+    "pt": "Nenhum personagem para mostrar"
   },
   "Character {} does not exist!": {
     "fr": "Le personnage {} n'existe pas",
     "de": "Charakter {} existiert nicht",
     "ru": "Персонаж {} не существует",
-    "es": "El personaje {} no existe"
+    "es": "El personaje {} no existe",
+    "pt": "O personagem {} não existe!"
   },
   "Name": {
     "fr": "Nom",
     "de": "Name",
     "ru": "Имя",
-    "es": "Nombre"
+    "es": "Nombre",
+    "pt": "Número"
   },
   "Owner": {
     "fr": "Propriétaire",
     "de": "Besitzer",
     "ru": "Владелец",
-    "es": "Propietario"
+    "es": "Propietario",
+    "pt": "Proprietário"
   },
   "Level": {
     "fr": "Niveau",
     "de": "Level",
     "ru": "Уровень",
-    "es": "Nivel"
+    "es": "Nivel",
+    "pt": "Nível"
   },
   "Empty": {
     "fr": "Vide",
     "de": "Leer",
     "ru": "Пусто",
-    "es": "Vacío"
+    "es": "Vacío",
+    "pt": "Vazio"
   },
   "Team": {
     "fr": "Équipe",
     "de": "Team",
     "ru": "Команда",
-    "es": "Equipo"
+    "es": "Equipo",
+    "pt": "Equipa"
   },
   "Additional Info": {
     "fr": "Informations supplémentaires",
     "de": "Zusätzliche Informationen",
     "ru": "Дополнительная информация",
-    "es": "Información adicional"
+    "es": "Información adicional",
+    "pt": "Informações adicionais"
   },
   "Only Bot Mods/Bot Admins may make characters for other players!": {
     "fr": "Il faut etre `Bot Mod` ou `Bot Admin` pour créer un personnage pour les autres",
     "de": "Nur Bot Mods/Bot Admins dürfen Charaktere für andere Spieler erstellen",
     "ru": "Только Bot Mods/Bot Admins может создавать персонажей для других игроков",
-    "es": "Solo Bot Mods/Bot Admins pueden crear personajes para otros jugadores"
+    "es": "Solo Bot Mods/Bot Admins pueden crear personajes para otros jugadores",
+    "pt": "Apenas os Bot Mods / Bot Admins podem criar personagens para os outros jogadores!"
   },
   "A character with this name already exists!": {
     "fr": "Un personnage a déjà ce nom",
     "de": "Dieser Charaktername ist schon vergeben",
     "ru": "Персонаж с таким именем уже существует",
-    "es": "Ya existe un personaje con este nombre"
+    "es": "Ya existe un personaje con este nombre",
+    "pt": "Já existe um personagem com esse nome!"
   },
   "Describe the character (Relevant character sheet) (Say `done` when you're done describing)": {
     "fr": "Décrivez le personnage (Fiche associée du personnage) (Tapez `done` quand vous avez fini)",
     "de": "Beschreibe deinen Charakter(Relevantes Charakter-Blatt) (Schreib `done` when du fertig bist)",
     "ru": "Опишите персонажа (Внешность, характер) (Скажите `done` , когда закончите)",
-    "es": "Describe el personaje (Personaje asociado a la ficha) (Escriba `done`cuando haya acabado de escribir"
+    "es": "Describe el personaje (Personaje asociado a la ficha) (Escriba `done`cuando haya acabado de escribir",
+    "pt": "Descreva o personagem (Ficha associada ao personagem) (Escreva `done` quando terminar de descrever)"
   },
   "What level is the character?": {
     "fr": "Quel est le niveau du personnage ?",
     "de": "Welchen Level hat der Charakter?",
     "ru": "Какого уровня выш персонаж?",
-    "es": "¿Cuál es el nivel del personaje?"
+    "es": "¿Cuál es el nivel del personaje?",
+    "pt": "Qual é o nível do personagem?"
   },
   "Any additional info? (Add a character image using the image keyword. Formats use regular syntax e.g.  (Separate keys with commas or newlines)": {
     "fr": "Des informations supplémentaires ? (Ajouter une image au personnage avec le mot-clé `image`, comme ceci : `image: http://example.com/image.jpg, cheveux: bruns` (Separer les mot-clés avec des virgules ou des retours à la ligne)",
@@ -93,19 +107,22 @@
     "fr": "Commande annulée !",
     "de": "Breche ab!",
     "ru": "Закрыто!",
-    "es": "¡Cancelado!"
+    "es": "¡Cancelado!",
+    "pt": "Cancelando!"
   },
   "Skipping!": {
     "fr": "Étape sautée !",
     "de": "Überspringe!",
     "ru": "Пропущено!",
-    "es": "¡Saltando!"
+    "es": "¡Saltando!",
+    "pt": "Etapa ignoranda!"
   },
   "Character created! rp!team addmember to add Pet (optional) to your character's team!": {
     "fr": "Personnage créé ! Tapez `rp!team addmember` pour ajouter des Pets (optionel) à votre équipe !",
     "de": "Charakter erstellt! Durch `rp!team addmember`kannst du sogar Pet hinzufügen falls du möchtest",
     "ru": "Персонаж создан! Если хотите добавить персонажа в команду, используете `rp!team addmember`",
-    "es": "¡Personaje creado! rp!team addmembet para añadir un Pet (opcional) al equipo de tu personaje"
+    "es": "¡Personaje creado! rp!team addmembet para añadir un Pet (opcional) al equipo de tu personaje",
+    "pt": "Personagem criado! Escreva `rp!team addmember` para adicionar um animal de estimação (opcional) para a equipa do seu personagem!"
   },
   "That character doesn't exist!": {
     "fr": "Ce personnage n'existe pas !",
@@ -323,12 +340,12 @@
     "ru": "На этом сервере нет активных лото!"
   },
   "No items in the shop to display.": {
-    "fr": "Il n'y a aucun item dans le magasin",
+    "fr": "Il n'y a aucun item dans le shop",
     "de": "Der Laden hat keine Items",
     "ru": "Нет предметов в магазине"
   },
   "Server Shop": {
-    "fr": "Magasin du serveur",
+    "fr": "Shop du serveur",
     "de": "Server Laden",
     "ru": "Магазин сервера"
   },
@@ -368,7 +385,7 @@
     "ru": "Время вышло!"
   },
   "Guild shop updated": {
-    "fr": "Magasin de Guilde actualisée",
+    "fr": "Shop actualisée",
     "de": "Gilden-Laden aktualisiert",
     "ru": "Магазин гильдии обновлен"
   },
@@ -408,7 +425,7 @@
     "ru": "Этот предмет не может быть продан!"
   },
   "You don't have enough to sell": {
-    "fr": "Vous n'avez pas assez pour vendre",
+    "fr": "Vous n'avez pas assez à vendre",
     "de": "Du hast nicht genug um zu verkaufen!",
     "ru": "У вас не хватает предметов для продажи!"
   },
@@ -457,7 +474,7 @@
     "ru": "Такой гильдии не существует!"
   },
   "\nAnd {} more...": {
-    "fr": "\net {} plus...",
+    "fr": "\nEt {} plus...",
     "de": "\nund noch {} weitere...",
     "ru": "\nИ еще {}..."
   },
@@ -606,7 +623,7 @@
     "ru": "Пользователь не состоит в этой гильдии!"
   },
   "User kicked": {
-    "fr": "Utilisateur expulsé",
+    "fr": "Utilisateur kické",
     "de": "Nutzer entfernt",
     "ru": "Пользователь был выгнан."
   },
@@ -1181,7 +1198,7 @@
     "ru": "Каким будет его прозвище (никнейм)?"
   },
   "What species of Pet is it?": {
-    "fr": "Quelle espèce Animal est-il ?",
+    "fr": "De quel espèce de Pet est-il ?",
     "de": "Welche Pet Spezies ist es?",
     "ru": "Что это за животное?"
   },
@@ -1211,12 +1228,12 @@
     "ru": "защита"
   },
   "spatk": {
-    "fr": "attaque spécial",
+    "fr": "atkspé",
     "de": "Spezialattacke",
     "ru": "специальная атака"
   },
   "spdef": {
-    "fr": "défence spécial",
+    "fr": "defspé",
     "de": "Spezialverteidigung",
     "ru": "специальная защита"
   },
@@ -1231,12 +1248,12 @@
     "ru": "{} - недействительный показатель! Попробуй заново"
   },
   "Any additional data? (Format like the above, for example nature: hasty, color: brown)": {
-    "fr": "Des informations supplémentaires ? (Par exemple: nature: précipité, couleur: marron)",
+    "fr": "Des informations supplémentaires ? (Par exemple: nature: précipité, color: marron)",
     "de": "Irgendwelche zusätzlichen Informationen? (Selbes Format wie oben z.B. nature: scheu, color: braun)",
     "ru": "Может, вы хотите что-нибудь добавить? (Например: \"Веселый, цвет кожи: темный, цвет волос: рыжий\")"
   },
   "Finished! Pet has been added to box with ID {}": {
-    "fr": "Fini ! L'Animal de Compagnie a été créé et ajouté à la boîte d'ID {}",
+    "fr": "Fini ! Le Pet a été créé et ajouté à la boîte d'ID {}",
     "de": "Fertig! Pet wurde in die Box mit der ID {} abgelegt!",
     "ru": "Завершено! Питомец был добавлен в коробку с ID {}"
   },
@@ -1256,7 +1273,7 @@
     "ru": "Характеристики"
   },
   "This Pet has been released! Goodbye {}!": {
-    "fr": "Cet Animal de Compagnie a été libéré ! Adieu, {} !",
+    "fr": "Ce Pet a été libéré ! Adieu, {} !",
     "de": "Dieses Pet wurde freigelessan! Lebwohl {} !",
     "ru": "Питомец был выпущен! Прощай, {}!"
   },
@@ -1391,7 +1408,7 @@
     "ru": "ID: {}\nХар-ки: {}\nСтатистика: {}\nДопольнительная информация:\n\t{} "
   },
   "That Pet is already a part of the team!": {
-    "fr": "Cet Animal de Compagnie fait déjà parti de l'équipe !",
+    "fr": "Ce Pet fait déjà parti de l'équipe !",
     "de": "Dieses Pet ist schon in deinem Team!",
     "ru": "Этот питомец уже является частью команды!"
   },
@@ -1406,7 +1423,7 @@
     "ru": "Этот персонаж не существует!"
   },
   "Successfully removed Pet!": {
-    "fr": "L'Animal de Compagnie a été supprimé avec succès !",
+    "fr": "Le Pet a été supprimé avec succès !",
     "de": "Pet erfolgreich entfernt!",
     "ru": "Питомец успешно удален!"
   },
@@ -1441,7 +1458,7 @@
     "ru": "Выдал опыт участникам"
   },
   "{0} is now level {1}!": {
-    "fr": "{0} est maintenant niveau {1} !",
+    "fr": "{0} maintenant a le niveau de {1} !",
     "de": "{0} hat Level {1} erreicht!",
     "ru": "{0} достиг {1} уровня!"
   },
@@ -1456,7 +1473,7 @@
     "ru": "Нет предметов"
   },
   "\nand {} more...": {
-    "fr": "\net {} plus...",
+    "fr": "\nEt {} plus...",
     "de": "\nund {} weitere...",
     "ru": "и еще {} штук..."
   },
@@ -1486,7 +1503,7 @@
     "ru": "В сделке отказано."
   },
   "Response two received!": {
-    "fr": "La deuxième reponse a été reçue",
+    "fr": "La premiere reponse est reçue",
     "de": "Zweite Antwort erhalten!",
     "ru": "Второй ответ получен!"
   },
@@ -1496,7 +1513,7 @@
     "ru": "Неверное значение номера {} из {}"
   },
   "{} does not have enough {} to trade! Trade cancelled!": {
-    "fr": "{} n'a pas assez {} pour échanger! L'eéhange est annullé",
+    "fr": "{} n'a pas assez {} pour echanger! L'echange est annulle",
     "de": "{} hat nicht genug {} um zu handeln! Handel abgebrochen!",
     "ru": "У {} недостаточно {} для обмена!"
   },
@@ -1506,7 +1523,7 @@
     "ru": "Обмен предметами"
   },
   "Trade complete!": {
-    "fr": "L'échange est reussi",
+    "fr": "L'échange est complet",
     "de": "Handel abgeschlossen!",
     "ru": "Обмен успешно выполнен!"
   }
