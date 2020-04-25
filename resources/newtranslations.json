@@ -122,169 +122,196 @@
     "de": "Charakter erstellt! Durch `rp!team addmember`kannst du sogar Pet hinzufügen falls du möchtest",
     "ru": "Персонаж создан! Если хотите добавить персонажа в команду, используете `rp!team addmember`",
     "es": "¡Personaje creado! rp!team addmembet para añadir un Pet (opcional) al equipo de tu personaje",
-    "pt": "Personagem criado! Escreva `rp!team addmember` para adicionar um animal de estimação (opcional) para a equipa do seu personagem!"
+    "pt": "Personagem criado! Escreva `rp!team addmember` para adicionar um Pet (opcional) para a equipa do seu personagem!"
   },
   "That character doesn't exist!": {
     "fr": "Ce personnage n'existe pas !",
     "de": "Dieser Charakter existiert nicht!",
     "ru": "Персонаж не существует!",
-    "es": "El personaje no existe"
+    "es": "El personaje no existe",
+    "pt": "Esse personagem não existe!"
   },
   "You do not own this character!": {
     "fr": "Vous n'êtes pas le propriétaire de ce personnage !",
     "de": "Dieser Charakter gehört dir nicht!",
     "ru": "Вы не владелец этого персонажа!",
-    "es": "No eres el propietario del personaje"
+    "es": "No eres el propietario del personaje",
+    "pt": "Você não possede esse personagem!"
   },
   "Character deleted": {
     "fr": "Personnage supprimé",
     "de": "Charakter gelöscht",
     "ru": "Персонаж удален",
-    "es": "Personaje borrado"
+    "es": "Personaje borrado",
+    "pt": "Personagem retirado"
   },
   "Invalid formatting! Try again": {
     "fr": "Syntaxe invalide !",
     "de": "Falsches Format! Probiers nochmal",
     "ru": "Неправильный формат, попробуй снова",
-    "es": "Formato no válido"
+    "es": "Formato no válido",
+    "pt": "Formato inválido !"
   },
   "That is not a valid item! Try again": {
     "fr": "Cet item n'existe pas !",
     "de": "Das ist kein gültiger Gegenstand!",
     "ru": "Этот предмет не действителен! Попробуй еще",
-    "es": "¡Este no es un item válido! Vuelve a intentarlo"
+    "es": "¡Este no es un item válido! Vuelve a intentarlo",
+    "pt" "Este item não existe! tente novamente"
   },
   "Character edited!": {
     "fr": "Personnage modifié",
     "de": "Character erfolgreich modifiziert!",
     "ru": "Персонаж изменен!",
-    "es": "Personaje editado"
+    "es": "Personaje editado",
+    "pt": "Personagem editado!"
   },
   "{} has {} dollars": {
     "fr": "{} a {} dollars",
     "de": "{} hat {} dollars",
     "ru": "У {} сейчас {} dollars",
-    "es": "{} tiene {} dollars"
+    "es": "{} tiene {} dollars",
+    "pt": "{} tem {} dollars"
   },
   "Balances changed": {
     "fr": "Solde changé",
     "de": "Balance erfolgreich verändert",
     "ru": "Баланс изменен",
-    "es": "Balance cambiado"
+    "es": "Balance cambiado",
+    "pt": "Saldo modificado"
   },
   "Money given": {
     "fr": "Argent donné",
     "de": "Geld erfolgreich ausgegeben!",
     "ru": "Деньги выданы",
-    "es": "Dinero dado"
+    "es": "Dinero dado",
+    "pt": "Dinheiro dado"
   },
   "Successfully paid {} dollars to {}": {
     "fr": "Payé {} dollars à {} avec succès",
     "de": "{} hat erfolgreich {} bezahlt",
     "ru": "Успешно выплачено {} dollars {}",
-    "es": "Pago de {} dollars a {} satisfactorio"
+    "es": "Pago de {} dollars a {} satisfactorio",
+    "pt": "Pagou com sucesso {} dollars a {}"
   },
   "\u27A1 to see the next page\n\u2B05 to go back\n\u274C to exit": {
     "fr": "\n        \u27A1 pour voir la page suivante\n        \u2B05 pour retourner\n        \u274C pour quitter\n        ",
     "de": "\n        \u27A1 um die nächste Seite zu sehen\n        \u2B05 um die vorherige Seite zu sehen\n        \u274C um das Menü zu verlassen\n        ",
     "ru": "\n        \u27A1 переход на следующую страницу\n        \u2B05 возврат\n        \u274C выход\n        ",
-    "es": "\n        \u27A1 para ver la siguente página\n        \u2B05 para volver\n        \u274C para salir\n        "
+    "es": "\n        \u27A1 para ver la siguente página\n        \u2B05 para volver\n        \u274C para salir\n        ",
+    "pt": "\n        \u27A1 para ver a próxima página\n        \u2B05 para retornar\n        \u274C para sair\n        "
   },
   "No items on the market to display.": {
     "fr": "Aucun item sur le marché",
     "de": "Der Markt hat keine Gegenstände",
     "ru": "Предметы в магазине отсутствуют.",
-    "es": "No hay items en el mercado"
+    "es": "No hay items en el mercado",
+    "pt": "Nenhum item no mercado"
   },
   "Player Market": {
     "fr": "Marché des joueurs",
     "de": "Spieler Markt",
     "ru": "Игровой магазин",
-    "es": "Mercado de jugadores"
+    "es": "Mercado de jugadores",
+    "pt": "Mercado dos Jogadores"
   },
   "ID": {
     "fr": "ID",
     "de": "ID",
     "ru": "ID",
-    "es": "ID"
+    "es": "ID",
+    "pt": "ID"
   },
   "COST": {
     "fr": "COÛT",
     "de": "Preis",
     "ru": "Стоимость",
-    "es": "Costo"
+    "es": "Costo",
+    "pt": "Preço"
   },
   "NUMBER": {
     "fr": "NOMBRE",
     "de": "Nummer",
     "ru": "Число",
-    "es": "Número"
+    "es": "Número",
+    "pt": "NÚMERO"
   },
   "ITEM": {
     "fr": "ITEM",
     "de": "Gegenstand",
     "ru": "Предмет",
-    "es": "ITEM"
+    "es": "ITEM",
+    "pt": "ITEM"
   },
   "SELLER": {
     "fr": "VENDEUR",
     "de": "Verkäufer",
     "ru": "Продавец",
-    "es": "VENDEDOR"
+    "es": "VENDEDOR",
+    "pt": "VENDEDOR"
   },
   "Timed out! Try again": {
     "fr": "Fin du temps ! Réessayez",
     "de": "Zeit abgelaufen! Versuchs nochmal",
     "ru": "Время вышло! Попробуй еще раз",
-    "es": "¡Tiempo agotado! Vualva a intentarlo"
+    "es": "¡Tiempo agotado! Vualva a intentarlo",
+    "pt": "Tempo esgotado! Tente novamente"
   },
   "You don't have enough of these to sell!": {
     "fr": "Vous n'en avez pas assez pour en vendre !",
     "de": "Du hast nicht genug davon um es zu verkaufen !",
     "ru": "Вам не хватает предметов для продажи!",
-    "es": "No tienes suficientes items de estos para vender"
+    "es": "No tienes suficientes items de estos para vender",
+    "pt": "Não tem o suficiente para vender!"
   },
   "Item listed!": {
     "fr": "Item listé !",
     "de": "Gegenstände aufgelistet!",
     "ru": "Перечень товаров",
-    "es": "Items listados"
+    "es": "Items listados",
+    "pt": "Item listado!"
   },
   "That is not a valid ID!": {
     "fr": "Ce n'est pas un ID valide !",
     "de": "Das ist keine valide ID!",
     "ru": "Неверный ID",
-    "es": "La ID no es válida"
+    "es": "La ID no es válida",
+    "pt": "Este não é um ID válido!"
   },
   "You cant afford this item!": {
     "fr": "Vous ne pouvez pas acheter cet item !",
     "de": "Du kannst dir diesen Gegenstand nicht leisten!",
     "ru": "Вы не можете позволить купить себе этот товар!",
-    "es": "No puedes permitirte comprar este item"
+    "es": "No puedes permitirte comprar este item",
+    "pt": "Você não pode comprar este item!"
   },
   "Items successfully bought": {
     "fr": "Items achetés avec succès",
     "de": "Gegenstand erfolgreich gekauft!",
     "ru": "Предмет успешно куплен",
-    "es": "Item comprado"
+    "es": "Item comprado",
+    "pt": "Item comprado"
   },
   "{} bought {} {} from you for {} dollars with ID {} on server {}": {
     "fr": "{} a acheté {} {} de vous pour {} dollars avec l'ID {} sur le serveur {}",
     "de": "{0} hat dir {1} {2} auf dem Server {5} , mit der Transaktions ID {4} für {3} dollars abgekauft",
     "ru": "{} купил {} {} у вас за {} dollars. Его ID {} на сервере: {}",
-    "es": "{} ha comprado {} {} de ti {} dollars con ID {} del servidor {}"
+    "es": "{} ha comprado {} {} de ti {} dollars con ID {} del servidor {}",
+    "pt": "{} comprou {} {} de você por {} dollars com o ID {} no server {}"
   },
   "This is not your item to remove!": {
     "fr": "Ce n'est pas à vous de supprimer cet item !",
     "de": "Dieser Gegenstand gehört dir nicht, du kannst ihn nicht entfernen!",
     "ru": "Это не ваш предмет! Вы не можете его удалить!",
-    "es": "Este objeto no es tuyo a eliminar"
+    "es": "Este objeto no es tuyo a eliminar",
+    "pt": "Não é a você de retirar este item!"
   },
   "Jackpot: {} dollars\n{} players entered": {
     "fr": "Cagnotte: {} dollars\n{} joueurs participent",
     "de": "Jackpot: {} dollars\n{} spieler haben teilgenommen",
     "ru": "Джекпот: {} dollars\n{} игроков вошло",
-    "es": "Lotería: {} dollars\n{} jugadores han entrado"
+    "es": "Lotería: {} dollars\n{} jugadores han entrado",
+    "pt": "Jackpot: {} dollars\n{} jogadores participam"
   },
   "No lotteries currently running!": {
     "fr": "Aucune loterie n'a été lancée !",
